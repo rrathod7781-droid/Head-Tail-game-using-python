@@ -63,8 +63,3 @@ Below is the output of the game:
 - 🎉 **User1 wins the game!**
 
 ---
-
-## 🚀 How to Run
-
-```bash
-python head_tail_game.py
